@@ -1,0 +1,23 @@
+{
+  "master_hostname": "d-iplogic-com-ua3.mylabserver.com",
+  "master_alt_names": "puppet",
+  "master_ssh_username": "root",
+  "master_sudo_password": "removed",
+  "master_ssh_key_file": "",
+  "master_ssh_key_passphrase": "removed",
+  "database": "install_postgres",
+  "console_username": "d@iplogic.com.ua",
+  "console_password": "removed",
+  "smtp_hostname": "localhost",
+  "splat": [
+
+  ],
+  "captures": [
+    "monolithic"
+  ],
+  "type": "monolithic",
+  "console_database_password": "removed",
+  "console_auth_db_password": "removed",
+  "puppetdb_database_password": "removed",
+  "database_password": "removed"
+}

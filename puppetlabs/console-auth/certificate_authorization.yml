@@ -1,0 +1,5 @@
+---
+d-iplogic-com-ua3.mylabserver.com:
+  role: read-write
+pe-internal-dashboard:
+  role: read-write

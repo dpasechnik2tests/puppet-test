@@ -1,0 +1,17 @@
+common: &common
+    database: console
+    username: console
+    password: 'Sa7RMMtS7A39FpKaqmmDdA'
+    host: d-iplogic-com-ua3.mylabserver.com
+    port: 5432
+    adapter: postgresql
+
+development:
+    <<: *common
+
+production:
+    <<: *common
+
+test:
+    database: console_test
+    <<: *common

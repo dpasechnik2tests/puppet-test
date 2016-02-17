@@ -1,0 +1,8 @@
+production:
+  adapter: postgresql
+  database: console_auth
+  timeout: 5000
+  username: console_auth
+  password: '5Whd7RI8E9z8thsedJWwEA'
+  host: d-iplogic-com-ua3.mylabserver.com
+  port: 5432

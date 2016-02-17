@@ -1,0 +1,11 @@
+0x0001 2016-02-06T08:58:46UTC 2021-02-05T08:58:46UTC /CN=Puppet CA generated on d-iplogic-com-ua3.mylabserver.com at 2016-02-07 08:58:42 +0000
+0x0002 2016-02-06T08:58:49UTC 2021-02-05T08:58:49UTC /CN=d-iplogic-com-ua3.mylabserver.com
+0x0003 2016-02-06T09:00:23UTC 2021-02-05T09:00:23UTC /CN=pe-internal-dashboard
+0x0004 2016-02-06T09:01:51UTC 2021-02-05T09:01:51UTC /CN=pe-internal-mcollective-servers
+0x0005 2016-02-06T09:01:55UTC 2021-02-05T09:01:55UTC /CN=pe-internal-peadmin-mcollective-client
+0x0006 2016-02-06T09:01:58UTC 2021-02-05T09:01:58UTC /CN=pe-internal-puppet-console-mcollective-client
+0x0007 2016-02-06T09:02:06UTC 2021-02-05T09:02:06UTC /CN=pe-internal-broker
+0x0008 2016-02-06T09:27:00UTC 2021-02-05T09:27:00UTC /CN=d-iplogic-com-ua4.mylabserver.com
+0x0009 2016-02-06T13:45:24UTC 2021-02-05T13:45:24UTC /CN=d-iplogic-com-ua5.mylabserver.com
+0x000a 2016-02-08T12:08:54UTC 2021-02-07T12:08:54UTC /CN=d-iplogic-com-ua6.mylabserver.com
+0x000b 2016-02-11T12:19:30UTC 2021-02-10T12:19:30UTC /CN=d-iplogic-com-ua5.mylabserver.com
